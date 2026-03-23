@@ -16,10 +16,4 @@ Python 3:
 
 ```bash
 python -m http.server 8000
-```
-
-To make it live:
-- Push this folder to a GitHub repo and enable Pages from `main` branch root, or use Vercel/Netlify.
-
-Notes:
-- Add your picture as `assets/bunny.jpg`. The page will show it when `Yes` is clicked and will fire confetti.
+``` is clicked and will fire confetti.
